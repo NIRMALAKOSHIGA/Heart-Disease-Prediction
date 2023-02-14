@@ -1,2 +1,2 @@
 # Heart-Disease-Prediction
-* Machine Learning Classification Project**
+* Machine Learning Classification Project
